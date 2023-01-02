@@ -1,0 +1,14 @@
+.topicBox {
+    background-color: rgb(135, 234, 252);
+    width: 50%;
+    height: 50px;
+    border-radius: 10px;
+    padding: 10px;
+    margin: 20px;
+}
+
+.text {
+    font-size: 30px;
+    font-family: roboto;
+    color: #fff;
+}
