@@ -4,7 +4,9 @@ import './topicbox.css';
 export default function TopicBox() {
   return (
     <div className="topic">
-      <span>This is the topicbox</span>
+      <center>
+        <span className="text">This is the topicbox</span>
+      </center>
     </div>
   );
 } 
