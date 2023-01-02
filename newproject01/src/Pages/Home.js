@@ -6,9 +6,9 @@ export default function Home() {
   return (
     <div>
       <h1>This is a Home Page</h1>
-      <TopicBox object="Book" />
-      <TopicBox object="Pencil" />
-      <TopicBox object="Moniter" />
+      <TopicBox object="Book" price="250" />
+      <TopicBox object="Pencil" price="15" />
+      <TopicBox object="Moniter" price="250 000" />
     </div>
   );
 }
